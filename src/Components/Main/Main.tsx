@@ -26,6 +26,7 @@ export const Main = () => {
 
     useEffect(() => {
         dispatch(getApi());
+        nav("/products/products");
     } , []);
     const nameAccount = document.getElementById("accountName")?.textContent
     const stateOutlet:[TypeJson[] , string | null | undefined , ({isActive}:{isActive : boolean}) => TypeActiveLink] = [statuse.data , nameAccount , activeLink];
