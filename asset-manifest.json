@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cards-Car/static/css/main.7f9f70be.css",
-    "main.js": "/cards-Car/static/js/main.120e7d72.js",
+    "main.js": "/cards-Car/static/js/main.5b1bfb29.js",
     "static/media/logoCars.png": "/cards-Car/static/media/logoCars.4ad3bb45f2a05c8bb7b6.png",
     "index.html": "/cards-Car/index.html",
     "main.7f9f70be.css.map": "/cards-Car/static/css/main.7f9f70be.css.map",
-    "main.120e7d72.js.map": "/cards-Car/static/js/main.120e7d72.js.map"
+    "main.5b1bfb29.js.map": "/cards-Car/static/js/main.5b1bfb29.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9f70be.css",
-    "static/js/main.120e7d72.js"
+    "static/js/main.5b1bfb29.js"
   ]
 }
