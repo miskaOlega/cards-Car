@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cards-Car/products/static/css/main.ff8c0071.css",
+    "main.js": "/cards-Car/products/static/js/main.120e7d72.js",
+    "static/media/logoCars.png": "/cards-Car/products/static/media/logoCars.4ad3bb45f2a05c8bb7b6.png",
+    "index.html": "/cards-Car/products/index.html",
+    "main.ff8c0071.css.map": "/cards-Car/products/static/css/main.ff8c0071.css.map",
+    "main.120e7d72.js.map": "/cards-Car/products/static/js/main.120e7d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8c0071.css",
+    "static/js/main.120e7d72.js"
+  ]
+}

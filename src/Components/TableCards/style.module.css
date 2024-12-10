@@ -1,0 +1,32 @@
+
+div#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+    header#header {
+        background-color: red;
+        padding: 0vh 50vh 0vh 50vh;
+        font-size: 2vh;
+        font-family: sans-serif;
+        border-radius: 2vh;
+        margin-bottom: 2vh;
+    }
+    nav#nav {
+        font-size: 3vh;
+        background-color: cadetblue;
+        display: flex;
+        justify-content: space-around;
+        width: 120vh;
+        border-radius: 5vh;
+        margin-bottom: 2vh;
+        p {
+            background-color: green;
+            border-radius: 5vh;
+            padding: 1vh;
+            border: 0.1vh solid black;
+        }
+    }
+
+}
+
